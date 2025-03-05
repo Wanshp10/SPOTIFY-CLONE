@@ -1,0 +1,52 @@
+.border{
+    border: 2px solid red;
+    margin: 3px;
+}
+
+.flex{
+    display: flex;
+}
+
+.justify-center{
+    justify-content: center;
+}
+
+.items-center{
+    align-items: center;
+}
+
+.bg-black{
+    background-color: black;
+    color: white;
+}
+
+.invert{
+    filter: invert(1);
+}
+
+.bg-grey{
+    background-color: rgb(17, 17, 17);
+}
+
+.bg-main{
+    background-color: rgb(33, 32, 32);
+}
+.rounded{
+    border-radius: 7px;
+}
+.m-1{
+    margin: 8px;
+}
+.p-1{
+    padding: 8px;
+}
+.m-2{
+    margin-bottom: 8px;
+    margin-left: -8px;
+}
+.space-between{
+    justify-content: space-between;
+}
+.Cwhite{
+    color: white;
+}
